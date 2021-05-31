@@ -1,0 +1,77 @@
+2	"Peugeot Partner	2011	hudieaaw	SUV	https://	https://	21321.0
+3	"Peugeot Partner	2010	test descriptions	Coupe	http://	http://	19600.0
+4	Aixam eAIXAM	2018	Dimensions: 2762 x 1500 mm	Hatchback	https://www.auto-data.net/images/f20/Aixam-eCITY-PREMIUM_thumb.jpg	https://www.auto-data.net/en/aixam-eaixam-compact-generation-6881	23000.0
+5	Aixam eAIXAM	2018	Dimensions: 2762 x 1500 mm	Hatchback	https://www.auto-data.net/images/f20/Aixam-eCITY-PREMIUM_thumb.jpg	https://www.auto-data.net/en/aixam-eaixam-compact-generation-6881	24000.0
+6	Zhidou D1	2014	Dimensions: 2763 x 1539 x 1524 mm	Hatchback	https://www.auto-data.net/images/f39/Zhidou-D2_thumb.jpg	https://www.auto-data.net/en/zhidou-d1-generation-6323	25000.0
+7	Zhidou D2	2017	Dimensions: 2806 x 1540 x 1555 mm	Hatchback	https://www.auto-data.net/img/no.jpg	https://www.auto-data.net/en/zhidou-d2-generation-6324	26000.0
+8	Zhidou D3	2018	Dimensions: 2808 x 1499 x 1555 mm	Hatchback	https://www.auto-data.net/img/no.jpg	https://www.auto-data.net/en/zhidou-d3-generation-6326	27000.0
+9	Aixam eAIXAM	2017	Dimensions: 3000 x 1500 mm	Coupe	https://www.auto-data.net/img/no.jpg	https://www.auto-data.net/en/aixam-eaixam-coupe-generation-6882	28000.0
+10	Aixam eAIXAM	2017	Dimensions: 3000 x 1500 mm	Coupe	https://www.auto-data.net/img/no.jpg	https://www.auto-data.net/en/aixam-eaixam-coupe-generation-6882	29000.0
+11	Aixam eAIXAM	2017	Dimensions: 3000 x 1500 mm	Coupe	https://www.auto-data.net/img/no.jpg	https://www.auto-data.net/en/aixam-eaixam-coupe-generation-6882	30000.0
+12	Zacua MX2	2017	Dimensions: 3065 x 1770 x 1442 mm	Coupe	https://www.auto-data.net/images/f111/Zacua-MX2_thumb.jpg	https://www.auto-data.net/en/zacua-mx2-generation-7508	31000.0
+13	Zacua MX3	2017	Dimensions: 3065 x 1770 x 1442 mm	Hatchback	https://www.auto-data.net/img/no.jpg	https://www.auto-data.net/en/zacua-mx3-generation-7509	32000.0
+14	Uniti One	2018	Dimensions: 3222 x 1709 x 1505 mm	Hatchback	https://www.auto-data.net/img/no.jpg	https://www.auto-data.net/en/uniti-one-generation-7381	33000.0
+15	MINEmobility City	2018	Dimensions: 3250 x 1750 x 1600 mm	Hatchback	https://www.auto-data.net/img/no.jpg	https://www.auto-data.net/en/minemobility-city-ev-concept-generation-6873	34000.0
+16	e.GO Life	2018	Dimensions: 3348 x 1700 x 1567 mm	Hatchback	https://www.auto-data.net/images/f7/e.GO-Life_thumb.jpg	https://www.auto-data.net/en/e.go-life-generation-6448	35000.0
+17	e.GO Life	2018	Dimensions: 3348 x 1700 x 1567 mm	Hatchback	https://www.auto-data.net/images/f7/e.GO-Life_thumb.jpg	https://www.auto-data.net/en/e.go-life-generation-6448	36000.0
+18	Jiangling E100	2016	Dimensions: 3427 x 1565 x 1450 mm	Hatchback	https://www.auto-data.net/img/no.jpg	https://www.auto-data.net/en/jiangling-e100-generation-6184	37000.0
+19	ORA R1	2018	Dimensions: 3495 x 1660 x 1560 mm	Hatchback	https://www.auto-data.net/img/no.jpg	https://www.auto-data.net/en/ora-r1-generation-7378	38000.0
+20	Volkswagen e	2013	Dimensions: 3540 x 1645 x 1489 mm	Hatchback	https://www.auto-data.net/images/f44/Volkswagen-e-Up_thumb.jpg	https://www.auto-data.net/en/volkswagen-e-up-generation-7303	39000.0
+21	Seat Mii	2019	Dimensions: 3556 x 1645 x 1481 mm	Hatchback	https://www.auto-data.net/images/f42/Seat-Mii-Electric_thumb.jpg	https://www.auto-data.net/en/seat-mii-electric-generation-7344	40000.0
+22	Jiangling E200	2016	Dimensions: 3580 x 1570 x 1485 mm	Hatchback	https://www.auto-data.net/img/no.jpg	https://www.auto-data.net/en/jiangling-e200-generation-6186	41000.0
+23	Volkswagen e	2019	Dimensions: 3600 x 1645 x 1492 mm	Hatchback	https://www.auto-data.net/images/f104/Volkswagen-e-Up-facelift-2019_thumb.jpg	https://www.auto-data.net/en/volkswagen-e-up-facelift-2019-generation-7306	42000.0
+24	Volkswagen e	2016	Dimensions: 3600 x 1645 x 1492 mm	Hatchback	https://www.auto-data.net/images/f100/Volkswagen-e-Up-facelift-2016_thumb.jpg	https://www.auto-data.net/en/volkswagen-e-up-facelift-2016-generation-7304	43000.0
+25	Rinspeed Oasis	2017	Dimensions: 3602 x 1917 x 1517 mm		https://www.auto-data.net/images/f17/rinspeed-oasis-concept_thumb.jpg	https://www.auto-data.net/en/rinspeed-oasis-concept-generation-6288	44000.0
+26	Chevrolet Spark	2013	Dimensions: 3721 x 1626 x 1590 mm	Hatchback	https://www.auto-data.net/images/f17/chevrolet-spark-ev_thumb.jpg	https://www.auto-data.net/en/chevrolet-spark-ev-generation-6322	45000.0
+27	Chevrolet Spark	2013	Dimensions: 3721 x 1626 x 1590 mm	Hatchback	https://www.auto-data.net/images/f17/chevrolet-spark-ev_thumb.jpg	https://www.auto-data.net/en/chevrolet-spark-ev-generation-6322	46000.0
+28	ChangAn Benni	2016	Dimensions: 3730 x 1650 x 1530 mm	Hatchback	https://www.auto-data.net/images/f92/ChangAn-Benni-EV_thumb.jpg	https://www.auto-data.net/en/changan-benni-ev-generation-5655	47000.0
+29	ChangAn Benni	2016	Dimensions: 3730 x 1650 x 1530 mm	Hatchback	https://www.auto-data.net/images/f92/ChangAn-Benni-EV_thumb.jpg	https://www.auto-data.net/en/changan-benni-ev-generation-5655	48000.0
+30	Renault City	2019	Dimensions: 3735 x 1579 x 1484 mm	SUV	https://www.auto-data.net/images/f40/Renault-City-K-ZE_thumb.jpg	https://www.auto-data.net/en/renault-city-k-ze-generation-7389	49000.0
+31	Citroen e	2016	Dimensions: 3809 x 1728 x 1653 mm	Cabriolet	https://www.auto-data.net/images/f15/thumb3981937.jpg	https://www.auto-data.net/en/citroen-e-mehari-generation-4846	50000.0
+32	Citroen e	2016	Dimensions: 3809 x 1728 x 1653 mm	Cabriolet	https://www.auto-data.net/images/f15/thumb3981937.jpg	https://www.auto-data.net/en/citroen-e-mehari-generation-4846	51000.0
+33	Honda e	2019	Dimensions: 3894 x 1752 x 1512 mm	Hatchback	https://www.auto-data.net/images/f74/Honda-e_thumb.jpg	https://www.auto-data.net/en/honda-e-generation-7298	52000.0
+34	Honda e	2019	Dimensions: 3894 x 1752 x 1512 mm	Hatchback	https://www.auto-data.net/images/f74/Honda-e_thumb.jpg	https://www.auto-data.net/en/honda-e-generation-7298	53000.0
+35	Jiangling E160	2017	Dimensions: 3994 x 1626 x 1505 mm	Sedan	https://www.auto-data.net/img/no.jpg	https://www.auto-data.net/en/jiangling-e160-generation-6185	54000.0
+36	Rinspeed Budii	2015	Dimensions: 4008 x 1905 x 1620 mm	SUV	https://www.auto-data.net/images/f1/rinspeed-budii-concept_thumb.jpg	https://www.auto-data.net/en/rinspeed-budii-concept-generation-6284	55000.0
+37	MW Motors	2015	Dimensions: 4050 x 1620 x 1220 mm	Coupe	https://www.auto-data.net/img/no.jpg	https://www.auto-data.net/en/mw-motors-luka-ev-generation-6208	56000.0
+38	Renault Zoe	2019	Dimensions: 4084 x 1730 x 1562 mm	Hatchback	https://www.auto-data.net/images/f126/Renault-Zoe-III_thumb.jpg	https://www.auto-data.net/en/renault-zoe-iii-generation-7277	57000.0
+39	ChangAn CS15	2017	Dimensions: 4100 x 1740 x 1630 mm	SUV	https://www.auto-data.net/images/f79/ChangAn-CS15-EV_thumb.jpg	https://www.auto-data.net/en/changan-cs15-ev-generation-6196	58000.0
+40	ChangAn CS15	2017	Dimensions: 4100 x 1740 x 1630 mm	SUV	https://www.auto-data.net/images/f79/ChangAn-CS15-EV_thumb.jpg	https://www.auto-data.net/en/changan-cs15-ev-generation-6196	59000.0
+41	MINEmobility MPV	2018	Dimensions: 4100 x 1750 x 1660 mm	MPV	https://www.auto-data.net/img/no.jpg	https://www.auto-data.net/en/minemobility-mpv-ev-concept-generation-6872	60000.0
+42	Volkswagen ID.	2016	Dimensions: 4100 x 1801 x 1529 mm	Hatchback	https://www.auto-data.net/images/f24/volkswagen-i.d._thumb.jpg	https://www.auto-data.net/en/volkswagen-id.-concept-generation-6139	61000.0
+43	Rimac Concept	2016	Dimensions: 4146 x 1854 x 1070 mm	Coupe	https://www.auto-data.net/images/f22/rimac-concept_one_thumb.jpg	https://www.auto-data.net/en/rimac-concept-one-generation-5944	62000.0
+44	Chevrolet Bolt	2017	Dimensions: 4166 x 1765 x 1595 mm	Hatchback	https://www.auto-data.net/images/f23/chevrolet-bolt-ev_thumb.jpg	https://www.auto-data.net/en/chevrolet-bolt-ev-generation-5828	63000.0
+45	Chevrolet Bolt	2017	Dimensions: 4166 x 1765 x 1595 mm	Hatchback	https://www.auto-data.net/images/f23/chevrolet-bolt-ev_thumb.jpg	https://www.auto-data.net/en/chevrolet-bolt-ev-generation-5828	64000.0
+46	Hyundai Kona	2018	Dimensions: 4180 x 1800 x 1570 mm	SUV	https://www.auto-data.net/images/f8/Hyundai-Kona_thumb.jpg	https://www.auto-data.net/en/hyundai-kona-electric-generation-6416	65000.0
+47	MINEmobility Sport	2018	Dimensions: 4300 x 1700 x 1200 mm	Coupe	https://www.auto-data.net/img/no.jpg	https://www.auto-data.net/en/minemobility-sport-ev-concept-generation-6871	66000.0
+48	Honda VE	2018	Dimensions: 4308 x 1824 x 1625 mm	SUV	https://www.auto-data.net/img/no.jpg	https://www.auto-data.net/en/honda-ve-1-generation-6785	67000.0
+49	Honda VE	2018	Dimensions: 4308 x 1824 x 1625 mm	SUV	https://www.auto-data.net/img/no.jpg	https://www.auto-data.net/en/honda-ve-1-generation-6785	68000.0
+50	MG ZS	2019	Dimensions: 4314 x 1809 x 1620 mm	SUV	https://www.auto-data.net/images/f93/MG-ZS-EV_thumb.jpg	https://www.auto-data.net/en/mg-zs-ev-generation-7345	69000.0
+51	FAW Besturn	2018	Dimensions: 4315 x 1780 x 1655 mm	SUV	https://www.auto-data.net/img/no.jpg	https://www.auto-data.net/en/faw-besturn-x40ev-400-generation-6722	70000.0
+52	FAW Besturn	2018	Dimensions: 4315 x 1780 x 1655 mm	SUV	https://www.auto-data.net/img/no.jpg	https://www.auto-data.net/en/faw-besturn-x40ev-400-generation-6722	71000.0
+53	Mercedes e	2014	Dimensions: 4358 x 1812 x 1599 mm	Hatchback	https://www.auto-data.net/images/f22/thumb866213.jpg	https://www.auto-data.net/en/mercedes-benz-b-class-electric-drive-w242-generation-4372	72000.0
+54	"Peugeot Partner	2017	Dimensions: 4380 x 1810 x 1883 mm	Minivan	https://www.auto-data.net/images/f14/peugeot-partner-i-phase-iii-2015_thumb.jpg	https://www.auto-data.net/en/peugeot-partner-ii-tepee-phase-iii-2015-generation-5982	73000.0
+55	Hyundai ix35	2013	Dimensions: 4410 x 1820 x 1650 mm	SUV	https://www.auto-data.net/images/f9/Hyundai-ix35-FCEV_thumb.jpg	https://www.auto-data.net/en/hyundai-ix35-fcev-generation-6442	74000.0
+56	Volvo XC40	2019	Dimensions: 4425 x 1652 mm	SUV	https://www.auto-data.net/images/f35/Volvo-XC40-Recharge_thumb.jpg	https://www.auto-data.net/en/volvo-xc40-recharge-generation-7348	75000.0
+57	ORA iQ	2018	Dimensions: 4445 x 1785 x 1567 mm	SUV	https://www.auto-data.net/images/f31/ORA-iQ_thumb.jpg	https://www.auto-data.net/en/ora-iq-generation-7379	76000.0
+58	XPENG G3	2018	Dimensions: 4450 x 1820 x 1600 mm	SUV	https://www.auto-data.net/images/f19/XPENG-G3_thumb.jpg	https://www.auto-data.net/en/xpeng-g3-generation-6766	77000.0
+59	Nissan Leaf	2017	Dimensions: 4490 x 1790 x 1540 mm	Hatchback	https://www.auto-data.net/images/f10/nissan-leaf-ii-ze1_thumb_1.jpg	https://www.auto-data.net/en/nissan-leaf-ii-ze1-generation-5721	78000.0
+60	Roewe i5	2018	Dimensions: 4544 x 1818 x 1532 mm	Station wagon (estate)	https://www.auto-data.net/images/f14/roewe-i5_thumb.jpg	https://www.auto-data.net/en/roewe-i5-generation-6333	79000.0
+61	BYD e6	2017	Dimensions: 4560 x 1822 x 1630 mm	MPV	https://www.auto-data.net/images/f4/BYD-e6_thumb.jpg	https://www.auto-data.net/en/byd-e6-generation-6634	80000.0
+62	BYD e6	2017	Dimensions: 4560 x 1822 x 1630 mm	MPV	https://www.auto-data.net/images/f4/BYD-e6_thumb.jpg	https://www.auto-data.net/en/byd-e6-generation-6634	81000.0
+63	GFG Style	2019	Dimensions: 4600 x 2000 x 1290 mm	SUV	https://www.auto-data.net/images/f12/GFG-Style-Kangaroo-Concept_thumb_1.jpg	https://www.auto-data.net/en/gfg-style-kangaroo-concept-generation-6965	82000.0
+64	GFG Style	2019	Dimensions: 4600 x 2000 x 1290 mm	SUV	https://www.auto-data.net/images/f12/GFG-Style-Kangaroo-Concept_thumb_1.jpg	https://www.auto-data.net/en/gfg-style-kangaroo-concept-generation-6965	83000.0
+65	ChangAn Eado	2018	Dimensions: 4620 x 1820 x 1540 mm	Sedan	https://www.auto-data.net/images/f95/ChangAn-Eado-EV300_thumb.jpg	https://www.auto-data.net/en/changan-eado-ev300-generation-5650	84000.0
+66	ChangAn Eado	2018	Dimensions: 4620 x 1820 x 1540 mm	Sedan	https://www.auto-data.net/images/f95/ChangAn-Eado-EV300_thumb.jpg	https://www.auto-data.net/en/changan-eado-ev300-generation-5650	85000.0
+67	Geely Emgrand	2015	Dimensions: 4631 x 1789 x 1495 mm	Sedan	https://www.auto-data.net/images/f21/Geely-Emgrand-EV_thumb.jpg	https://www.auto-data.net/en/geely-emgrand-ev-generation-6281	86000.0
+68	Geely Emgrand	2015	Dimensions: 4631 x 1789 x 1495 mm	Sedan	https://www.auto-data.net/images/f21/Geely-Emgrand-EV_thumb.jpg	https://www.auto-data.net/en/geely-emgrand-ev-generation-6281	87000.0
+69	Qiantu K50	2017	Dimensions: 4634 x 2069 x 1253 mm	Coupe	https://www.auto-data.net/images/f92/Qiantu-K50_thumb.jpg	https://www.auto-data.net/en/qiantu-k50-generation-7301	88000.0
+70	Buick Velite	2019	Dimensions: 4650 x 1817 x 1510 mm	Minivan	https://www.auto-data.net/img/no.jpg	https://www.auto-data.net/en/buick-velite-6-generation-7058	89000.0
+71	Buick Velite	2019	Dimensions: 4650 x 1817 x 1510 mm	Minivan	https://www.auto-data.net/img/no.jpg	https://www.auto-data.net/en/buick-velite-6-generation-7058	90000.0
+72	Arcfox GT	2019	Dimensions: 4672 x 2018 x 1196 mm	Roadster	https://www.auto-data.net/images/f28/Arcfox-GT-RACEEDITION_thumb.jpg	https://www.auto-data.net/en/arcfox-gt-raceedition-generation-6976	91000.0
+73	Acura GT	2019	Dimensions: 4672 x 2018 x 1196 mm	Roadster	https://www.auto-data.net/images/f28/Arcfox-GT-RACEEDITION_thumb.jpg	https://www.auto-data.net/en/arcfox-gt-raceedition-generation-6976	73.0
+74	Acura GT	2019	Dimensions: 4672 x 2018 x 1196 mm	74	https://www.auto-data.net/images/f28/Arcfox-GT-RACEEDITION_thumb.jpg	https://www.auto-data.net/en/arcfox-gt-raceedition-generation-6976	74.0
+75	Acura 75	2019	75	Roadster	https://www.auto-data.net/images/f28/Arcfox-GT-RACEEDITION_thumb.jpg	https://www.auto-data.net/en/arcfox-gt-raceedition-generation-6976	75.0
+76	Baojun E100	2017	Dimensions: 2488 x 1506 x 1670 mm	Hatchback	https://www.auto-data.net/images/f62/Baojun-E100_thumb.jpg	https://www.auto-data.net/en/baojun-e100-generation-6128	20000.0
+77	"Peugeot Partner	2020	test	SUV	http://	http://	212.0
+1	"Peugeot Partner	1999	ewq	SUV	http://eeee	http://	222.0
