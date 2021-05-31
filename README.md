@@ -11,44 +11,45 @@ The GUI design minimized the data entry by user, and the data needs to be valida
 
 # Features
 
-* Yu Liang
+## Yu Liang
   	  
-Used car
+* Used car:
 
-1.Save used car information into the database with the required data.
+  1. Save used car information into the database with the required data.
 
-2.GUI for car data input page
+  2. GUI for car data input page
 
-3. Using RandomAccessFile  to load and update the drop down list of make and model.
+  3. Using RandomAccessFile  to load and update the drop down list of make and model.
 
-4. Save UserID and password into the database with validation.
+  4. Save UserID and password into the database with validation.
 
-5. GUI for user sign in and sign up.
+  5. GUI for user sign in and sign up.
  
-6. Load the filtered data from the database and print them out  to users.
+  6. Load the filtered data from the database and print them out  to users.
 
-7. GUI for buying a used car with different filtered conditions.
+  7. GUI for buying a used car with different filtered conditions.
 
-8. GUI for the search result.
+  8. GUI for the search result.
 
-* Xirui Chen 
-New Car
+## Xirui Chen 
 
-1. 	Search for a new car from file/database by at most 3 conditions.
+* New Car:
 
-2. 	GUI for user to search
+  1. 	Search for a new car from file/database by at most 3 conditions.
 
-3. 	Sort the search results by price or by model of the cars.
+  2. 	GUI for user to search
 
-4. 	GUI for showing the results
+  3. 	Sort the search results by price or by model of the cars.
+  
+  4. 	GUI for showing the results
 
-5. 	GUI for admin to login
+  5. 	GUI for admin to login
 
-6. 	Search for a car by id
+  6. 	Search for a car by id
 
-7. 	GUI for admin to maintain cars information
+  7. 	GUI for admin to maintain cars information
 
-8. 	Add/delete/modify a car’s information
+  8. 	Add/delete/modify a car’s information
 
 
 # Video link
